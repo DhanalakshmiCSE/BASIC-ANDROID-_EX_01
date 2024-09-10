@@ -22,21 +22,17 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 /*
-Program to implement a Hello world Activity using all lifecycles methods using Android Studio .
-Developed by: DHANALAKSHMI S
-RegisterNumber: 212222040033 
+Program to implement a Hello world Activity using all lifecycles methods using Android Studio                                                                      
+Developed by: DHANALAKSHMI S                                                                        
+RegisterNumber: 212222040033
 */
 ## MainActivity.java:
 ```
 package com.example.experiment1;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.widget.Toast;
-
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -74,7 +70,6 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
         Toast toast=Toast.makeText(getApplicationContext(),"OnDestroy Executed",Toast.LENGTH_LONG);
         toast.show();
-
     }
 }
 ```
@@ -99,10 +94,12 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
 ## OUTPUT:
 ![WhatsApp Image 2024-09-10 at 17 51 57_ed1b41f1](https://github.com/user-attachments/assets/3e8d80be-3fd6-42f8-b03c-889daa9f8f98)
 
-![image](https://github.com/user-attachments/assets/83f5ff87-5c11-4b05-8819-e41ed4f804bd)
+![WhatsApp Image 2024-09-10 at 17 51 43_bc1a2648](https://github.com/user-attachments/assets/9b7d3a1c-9207-4f01-a083-12dc72867c8f)
+
 
 
 ## RESULT:
