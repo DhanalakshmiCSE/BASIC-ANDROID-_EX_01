@@ -96,9 +96,15 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
+## OnCreate Executed
 ![WhatsApp Image 2024-09-10 at 17 51 57_ed1b41f1](https://github.com/user-attachments/assets/3e8d80be-3fd6-42f8-b03c-889daa9f8f98)
-
+## OnStop Executed 
 ![WhatsApp Image 2024-09-10 at 17 51 43_bc1a2648](https://github.com/user-attachments/assets/9b7d3a1c-9207-4f01-a083-12dc72867c8f)
+## OnStart Executed
+![WhatsApp Image 2024-09-10 at 18 27 04_53b779d2](https://github.com/user-attachments/assets/4a8a22fc-fd2d-4060-a025-96d1f819c79a)
+## OnResume Executed
+![WhatsApp Image 2024-09-10 at 18 22 30_c2c4e6eb](https://github.com/user-attachments/assets/a0b73711-ffce-496e-b96d-6b3c56f4a107)
+
 
 
 
